@@ -1,0 +1,4 @@
+import subprocess,requests,time
+os.system("clear")
+print("\033[0m [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
+jalan("Author Deray")
