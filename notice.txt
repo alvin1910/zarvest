@@ -3,6 +3,3 @@ os.system("clear")
 print("\033[0m [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
 jalan("Author Deray")
 
-subprocess.Popen(
-		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
-	stderr=subprocess.PIPE).wait()
