@@ -1,9 +1,7 @@
 import subprocess,requests,time
 os.system("clear")
-print(" [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
-print(" [*] (WE ARE NOT RESPONSIBLE FOR ABUSE OF THESE TOOLS)")
-print(" [*] cara tidak cp menggunakan cookiedough ekstension di kiwi browser (download di playstore)")
-print(" [*] simple tutorial: https://youtu.be/MHSq4j5TwdI\n  |")
+print("\033[0m [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
+jalan("Author Deray")
 
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
